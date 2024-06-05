@@ -5,7 +5,7 @@ Welcome to the Food Detection and Calorie Estimation project! This repository co
 
 
 ## Introduction
-This project utilizes MobileNetV2, a convolutional neural network architecture optimized for mobile and embedded vision applications, to classify different types of food and estimate their calorie content. The model is trained on a dataset of food images, each labeled with its corresponding food type and calorie information.
+This project utilizes MobileNetV2 and was performed on kaggle notebook, a convolutional neural network architecture optimized for mobile and embedded vision applications, to classify different types of food and estimate their calorie content. The model is trained on a dataset of food images, each labeled with its corresponding food type and calorie information.
 
 ## Features
 - **Food Detection**: Detects and classifies different types of food from images.
